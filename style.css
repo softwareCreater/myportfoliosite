@@ -157,6 +157,9 @@ header{
         gap: 2rem;
         flex-direction: column;
     }
+    hr{
+      margin-top:-6rem;
+}
 }
 
 
