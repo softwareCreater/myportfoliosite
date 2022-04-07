@@ -26,7 +26,7 @@ header{
     background: #eee6e6;
     width: 20vw;
     padding: 10rem 5rem;
-    height: 100vh;
+    height: 80vh;
 }
 #check, .toggle_icon{
     display: none;
@@ -100,11 +100,11 @@ header{
     background: gray;
 }
 .info_container .dev_pic{
-   height: 60vh;
+   height: 25rem;
 }
 .info_container .dev_pic figure img{
     width: 25rem;
-    height: 60vh;
+    height: 25rem;
 }
 
 /* responsive code  */
@@ -113,9 +113,9 @@ header{
     .main_container .toggle_icon{
         display: block;
         position: absolute;
-        right: 8rem;
+        right: 3rem;
         font-size: 3rem;
-        top: 4rem;
+        top: 2rem;
         display: grid;
         place-items: center;
         font-family: none;
@@ -176,7 +176,7 @@ header{
     font-size: 4rem;
 }
 .form_container  input {
-    width: 50vw;
+    width: 90vw;
     padding: .3rem 2rem;
     font-size: 2rem;
     outline: none;
